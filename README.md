@@ -1,1 +1,1 @@
-MusixApp with test cases using Mockito
+MusixApp using MONGO DB
